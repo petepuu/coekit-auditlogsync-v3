@@ -53,6 +53,9 @@ Download the latest version of the solution and import to the same environment w
 
     ![image](https://github.com/petepuu/coekit-auditlogsync-v3/assets/8307644/cd76d8ae-2f34-4389-b568-d18149c3dbdb)
 
+13. Run the flow
+
+    ![image](https://github.com/petepuu/coekit-auditlogsync-v3/assets/8307644/28bc3e29-4ab3-4826-bd56-bbbc0d56b8af)
 
     
    
