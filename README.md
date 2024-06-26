@@ -21,7 +21,7 @@ Download the latest version of the solution and import to the same environment w
    ![image](https://github.com/petepuu/coekit-auditlogsync-v3/assets/8307644/87eaaf70-808c-4654-a499-e8b7cda91c64)
 
    <br>
-4. Make sure that the **Admin | Audit Logs | Update Data (V2)** flow turned on
+4. Make sure that the **Admin | Audit Logs | Update Data (V2)** flow is turned on
 
    ![image](https://github.com/petepuu/coekit-auditlogsync-v3/assets/8307644/158cc437-6598-44f6-bf66-4b24e0b0c05d)
 
