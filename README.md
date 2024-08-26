@@ -1,6 +1,11 @@
-# CoE Starter Kit Audit Logs Sync Flow V3
+# CoE Starter Kit Audit Logs Sync Flow
 
-This is another option for CoE Starter Kit Audit Logs Sync Flow using new Audit Logs Query Graph API (preview). Current V2 sync flow uses old Office 365 Management API which has limitations not allowing us to define what events we want to query from the Audit Log causing performance and throttling issues especially in large busy tenants. With Graph API we can query only events we need reducing amount of Power Platform requests needed to process the events 
+### $${\color{red}!!!IT \space IS \space NOT \space RECOMMENDED \space TO \space US \space THIS \space VERSION \space ANYMORE \space AS \space THIS}$$
+### $${\color{red}METHOD \space IS \space NOW \space INCLUDED \space IN \space COE \space STARTER \space KIT \space AUGUST \space 2024 \space RELEASE}$$
+
+<br><br>
+
+This is another option for CoE Starter Kit Audit Logs Sync Flow using new Audit Logs Query Graph API (preview). Current V2 sync flow uses old Office 365 Management API which has limitations not allowing us to define what events we want to query from the Audit Log causing performance and throttling issues especially in large busy tenants. With Graph API we can query only events we need reducing amount of Power Platform requests needed to process the events
 
 https://learn.microsoft.com/en-us/graph/api/security-auditcoreroot-list-auditlogqueries?view=graph-rest-beta&tabs=http
 
